@@ -67,10 +67,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 🤝 **Contributing**
 
 Contributions are welcome! Fork the repo, make changes, and submit a pull request.
-
----
-
-## 📬 **Connect**
-
-👨‍💻 **Yash Sisodia**  
-📍 [GitHub](https://github.com/yash-sis) | [LinkedIn](https://www.linkedin.com/in/yashsisodia)
